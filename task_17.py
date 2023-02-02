@@ -4,4 +4,7 @@
 # Input: [1, 1, 2, 0, -1, 3, 4, 4]
 # Output: 6
 
-print('hello')
+list = [1, 1, 2, 0, -1, 3, 4, 4]
+newSet = set(list)
+print(newSet)
+print(len(newSet))
